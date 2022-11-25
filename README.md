@@ -1,2 +1,2 @@
-# CSS---My-Site
+# CSS My Site
 for CSS intermediate module
